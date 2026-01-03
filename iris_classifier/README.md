@@ -47,11 +47,11 @@ The script will:
 
 **Performance:**
 - **Test Accuracy: 93.33% (28/30 correct)**
-- Test Loss: 0.0486
+- Test Loss: 0.0468
 
 ### Training Loss
 
-![Training Loss](training_loss.png)
+![Training Loss](training_loss00.png)
 
 The loss decreases smoothly from ~1.15 to ~0.05 over 100 epochs, indicating successful learning with stable convergence.
 
