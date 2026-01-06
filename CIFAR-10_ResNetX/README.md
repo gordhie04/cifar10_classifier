@@ -8,12 +8,6 @@ A PyTorch implementation of ResNet-50 for image classification on the CIFAR-10 d
 - **Training Time**: 20 epochs on Tesla T4 GPU
 - **Architecture**: ResNet-50 (3-4-6-3 configuration)
 
-### Training Output
-
-![Terminal Output](Terminal_Output(ResNet-CIFAR10).png)
-
-Training executed on Tesla T4 GPU with consistent convergence across all epochs.
-
 ### Training Metrics
 
 ![Training Metrics](CIFAR-10_ResNet-Output.png)
